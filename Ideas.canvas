@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1e8f72963f36d954","x":-417,"y":-193,"width":290,"height":373,"type":"group","label":"Peace"},
+		{"id":"62b38b9bba1d37db","x":-20,"y":-193,"width":290,"height":173,"type":"group","label":"War"},
+		{"id":"1d983a606b85ddd5","x":-397,"y":-173,"width":250,"height":60,"type":"text","text":"Grass"},
+		{"id":"db8b41d596bc5487","x":-397,"y":-100,"width":250,"height":60,"type":"text","text":"# Pond"},
+		{"id":"2659a08e18c7c013","x":0,"y":-173,"width":250,"height":60,"type":"text","text":"Tank"},
+		{"id":"f1ae0b38ee17e86e","x":0,"y":-100,"width":250,"height":60,"type":"text","text":"Fire pit"},
+		{"id":"a5235806f31b7a4e","x":-397,"y":-20,"width":250,"height":60,"type":"text","text":"River/ stream"}
+	],
+	"edges":[]
+}
