@@ -1,2 +1,9 @@
 # Godot 4+ specific ignores
 .godot/
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
+.obsidian/
